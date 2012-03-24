@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = "http_accept_language"
-  s.version     = '1.0.2'
+  s.version     = '1.0.2.1'
   s.authors     = ["iain"]
   s.email       = ["iain@iain.nl"]
   s.homepage    = "https://github.com/iain/http_accept_language"
